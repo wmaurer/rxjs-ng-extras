@@ -4,6 +4,12 @@ Additional RxJS 5 operators and helpers for Angular (2+).
 
 Ideas for new functionality and contributions are welcome.
 
+## Install
+
+```
+npm install rxjs-ng-extras
+```
+
 ## Operators
 
 ### `observeOnZone(zone)`

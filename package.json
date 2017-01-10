@@ -1,6 +1,6 @@
 {
   "name": "rxjs-ng-extras",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extends RxJS 5 with additional methods useful for Angular (2+)",
   "keywords": [
     "rxjs",
